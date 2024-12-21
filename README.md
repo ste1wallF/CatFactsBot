@@ -14,4 +14,5 @@
 Прописываем команду "docker build -t catfactbot ."\
 Образ создан. Для запуска используем команду "docker run --rm catfactbot".\
 Контейнер запущен - бот работает.
-![image](https://github.com/user-attachments/assets/c2d40b1e-4b7b-41f6-b6a3-efab9b6a36d0)
+![image](https://github.com/user-attachments/assets/2e29de2d-1362-44f4-8397-53070d1e3ca7)
+
